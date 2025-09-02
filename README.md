@@ -1,4 +1,4 @@
-
+ <img src="poster1.png" align="center" height="200" alt="" />
 
 <!--
 **jmcnichol/jmcnichol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

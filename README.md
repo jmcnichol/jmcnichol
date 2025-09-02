@@ -1,4 +1,4 @@
-## Hi there 👋  <img src="poster.png" align="right" height="120" alt="" />
+## Hi there 👋  <img src="poster.png" align="right" height="480" alt="" />
 
 <!--
 **jmcnichol/jmcnichol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
